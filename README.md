@@ -8,7 +8,7 @@
 - i'm from indonesian
 
 ## Reach Me
-- Discord = **.fivesec#9999**
+- Discord = **kirigami#9999**
 - Steam = **[Steam Profile](https://steamcommunity.com/id/kirigami318/)**
 
 <!---
