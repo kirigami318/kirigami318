@@ -5,10 +5,11 @@
 - I’m interested in **Game Development**
 - I’m currently learning **Python and c++**
 - i'm still student in high school
+- i love using blender too
 - i'm from indonesian
 
 ## Reach Me
-- Discord = **kirigami#9999**
+- Discord = **ıɯɐɓıɹıʞ#9999**
 - Steam = **[Steam Profile](https://steamcommunity.com/id/kirigami318/)**
 
 <!---
