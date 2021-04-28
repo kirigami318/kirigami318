@@ -9,8 +9,8 @@
 - i'm from indonesian
 
 ## Reach Me
-- Discord = **kirik#6666**
-- Steam = **[Steam Profile](https://steamcommunity.com/id/kirigami318/)**
+- [x] Discord = **kirik#6666**
+- [x] Steam = **[Steam Profile](https://steamcommunity.com/id/kirigami318/)**
 
 <!---
 kirigami318/kirigami318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
