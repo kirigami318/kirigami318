@@ -9,7 +9,7 @@
 - i'm from indonesian
 
 ## Reach Me
-- [x] Discord = **kirik#6666**
+- [x] Discord = **kirigami#5050 (if u scam me i will block u)**
 - [x] Steam = **[Steam Profile](https://steamcommunity.com/id/kirigami318/)**
 
 <!---
