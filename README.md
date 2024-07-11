@@ -2,14 +2,12 @@
 
 ## About Me
 - Hi, I’m **@kirigami318**
-- I’m interested in **Game Development**
-- I’m currently learning **Python and c++**
-- i'm still student in high school
-- i love using blender too
+- I’m currently learning **Python, c++, javascript, html, and css**
+- i 3D Artist
 - i'm from indonesian
 
 ## Reach Me
-- [x] Discord = **kliped#8574 (if u scam me i will block u)**
+- [x] Discord = **@farrelel**
 - [x] Steam = **[Steam Profile](https://steamcommunity.com/id/kirigami318/)**
 
 <!---
