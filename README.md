@@ -3,7 +3,7 @@
 ## About Me
 - Hi, I’m **@kirigami318**
 - I’m currently learning **Python, c++, javascript, html, and css**
-- i 3D Artist
+- 3D Artist
 - i'm from indonesian
 
 ## Reach Me
