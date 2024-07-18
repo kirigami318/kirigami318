@@ -2,7 +2,7 @@
 
 ## About Me
 - Hi, I’m **@kirigami318**
-- I’m currently learning **Python, c++, javascript, html, and css**
+- I’m currently learning **Python, c++, c#, javascript, html, and css from freeCodeCamp and other sites**
 - 3D Artist
 - i'm from indonesian
 
